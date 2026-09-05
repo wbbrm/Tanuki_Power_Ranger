@@ -1,2 +1,2 @@
-# Tanuki-Power-Rangeer
+# Tanuki-Power-Ranger
 สำหรับ Discord Server's Tanuki
