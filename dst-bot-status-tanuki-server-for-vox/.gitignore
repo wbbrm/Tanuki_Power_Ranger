@@ -1,0 +1,11 @@
+# Ignore ENV
+.env
+.env.*
+!.env.example
+
+# Ignore Package
+package-lock.json
+
+# Ignore Node and Log
+/node_modules/
+/dist/
